@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/codelab_pbo_24.iml" filepath="$PROJECT_DIR$/codelab_pbo_24.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/codelab2.iml" filepath="$PROJECT_DIR$/codelab2.iml" />
+>>>>>>> df402f3d1aef3ffc1d4b0977e1f91505dac3602c
     </modules>
   </component>
 </project>
