@@ -1,9 +1,10 @@
 public class App {
-    public static void main(String[] args) throws Exception {
-        Tabung tabung = new Tabung("tabung");
-        Kubus kubus = new Kubus("kubus");
-        Balok balok = new Balok("balok");
+    public static void main(String[] args) {
 
+        Kubus kubus = new Kubus("Kubus");
+        Tabung tabung = new Tabung("Tabung");
+        Balok balok = new Balok("Balok");
+        
         balok.inputNilai();
         balok.luasPermukaan();
         balok.volume();
@@ -15,5 +16,6 @@ public class App {
         tabung.inputNilai();
         tabung.luasPermukaan();
         tabung.volume();
+
     }
 }
